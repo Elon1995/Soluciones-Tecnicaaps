@@ -1,0 +1,13 @@
+{
+  "name": "soluciones-tecnicas-backend",
+  "version": "1.0.0",
+  "description": "Backend inicial para Soluciones Tecnicas",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node --test"
+  },
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {}
+}
